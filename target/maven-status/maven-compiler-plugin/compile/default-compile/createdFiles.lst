@@ -1,0 +1,6 @@
+com\bfhl\dto\BfhlRequest.class
+com\bfhl\dto\BfhlResponse.class
+com\bfhl\service\impl\BfhlServiceImpl.class
+com\bfhl\service\BfhlService.class
+com\bfhl\BfhlApplication.class
+com\bfhl\controller\BfhlController.class
