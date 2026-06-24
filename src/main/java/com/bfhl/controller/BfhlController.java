@@ -27,4 +27,8 @@ public class BfhlController {
         BfhlResponse response = bfhlService.processData(request);
         return ResponseEntity.ok(response);
     }
+    @GetMapping("/health")
+    public String health() {
+        return "OK";
+    }
 }
